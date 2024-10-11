@@ -50,5 +50,5 @@ Retention rates vary significantly between departments, with certain divisions m
 The analysis helps identify which departments require improved recruitment strategies or better retention efforts, such as enhancing employee engagement programs or addressing specific workplace challenges.
 
 
-_Conclusion:_
+**_Conclusion:_**
 This analysis serves as a powerful tool for human resources and management teams to make data-driven decisions. By understanding patterns in hiring and separations, organizations can develop strategies to reduce turnover, improve retention, and ensure that each department is equipped with the right talent to meet its objectives. Ultimately, addressing the trends identified in this analysis will help the organization build a more stable, efficient, and engaged workforce.
